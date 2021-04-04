@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.ttl-wrapper{
+	position: absolute;
+	top: 60px;
+	right: 40px;
+}
+.ttl-text{
+	margin: 0;
+	padding: 15px 20px;
+	color: #fff;
+	font-size: 40px;
+	border: solid 1px #fff;
+	display: inline;
+}
